@@ -1,0 +1,15 @@
+init_config:
+
+instances:
+- name: ssh
+  search_string: ['ssh', 'sshd']
+  thresholds:
+    critical: [1, 5]
+- name: infinitefutured
+  search_string: ['infinitefutured']
+  thresholds:
+    critical: [1, 1]
+- name: infinitefuturecli
+  search_string: ['infinitefuturecli']
+  thresholds:
+    critical: [1, 1]

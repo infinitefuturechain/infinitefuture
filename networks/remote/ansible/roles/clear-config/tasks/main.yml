@@ -1,0 +1,12 @@
+---
+
+- name: Stop service
+  service: name=infinitefutured state=stopped
+
+- name: Delete files
+  file: "path={{item}} state=absent"
+  with_items:
+  - /usr/bin/infinitefutured
+  - /home/infinitefutured/.infinitefutured
+  - /home/infinitefutured/.infinitefuturecli
+
