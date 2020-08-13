@@ -114,7 +114,7 @@ infinitefutured start
 infinitefuturecli status
 ```
 
-使用[Infinitefuture Explorer](https://explorer.infinitefuture.com)查看网络状态。
+使用[Infinitefuture Explorer](https://explorer.infinitefuture.top)查看网络状态。
 
 ## 导出状态
 

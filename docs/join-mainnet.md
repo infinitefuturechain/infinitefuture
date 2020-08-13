@@ -71,7 +71,7 @@ infinitefutured start
 
 Your node needs to know how to find peers. You'll need to add healthy seed nodes to `$HOME/.infinitefutured/config/config.toml`. The [`mainnet`](https://github.com/infinitefuturechain/mainnet) repo contains links to some seed nodes.
 
-If those seeds aren't working, you can find more seeds and persistent peers on a Infinitefuture Hub explorer (a list can be found on the [launch page](https://explorer.infinitefuture.com)). 
+If those seeds aren't working, you can find more seeds and persistent peers on a Infinitefuture Hub explorer (a list can be found on the [launch page](https://explorer.infinitefuture.top)). 
 
 For more information on seeds and peers, you can [read this](https://github.com/tendermint/tendermint/blob/develop/docs/tendermint-core/using-tendermint.md#peers).
 
@@ -117,7 +117,7 @@ Check that everything is running smoothly:
 infinitefuturecli status
 ```
 
-View the status of the network with the [Infinitefuture Explorer](https://explorer.infinitefuture.com). 
+View the status of the network with the [Infinitefuture Explorer](https://explorer.infinitefuture.top). 
 
 ## Export State
 

@@ -30,10 +30,10 @@ $infinitefuturecli --help
 ```
 
 ## Explorer
-[infinitefuture explorer](https://explorer.infinitefuture.com)
+[infinitefuture explorer](https://explorer.infinitefuture.top)
 
 ## Wallet
-[infinitefuture wallet](https://wallet.infinitefuture.com)
+[infinitefuture wallet](https://wallet.infinitefuture.top)
 
 ## Mainnet
 [infinitefuture mainnet](https://github.com/infinitefuturechain/mainnet)
