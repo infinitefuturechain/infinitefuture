@@ -35,6 +35,10 @@ Ref: https://keepachangelog.com/en/1.0.0/
 
 ## [Released]
 
+## [v1.0.1] - 2020-08-12
+
+* (sdk) Bump Infinitefuture-SDK version to [v1.0.1](https://github.com/infinitefuturechain/infinitefuture-sdk/releases/tag/v1.0.1).
+
 ## [v1.0.0] - 2020-08-12
 
 * (sdk) Bump Infinitefuture-SDK version to [v1.0.0](https://github.com/infinitefuturechain/infinitefuture-sdk/releases/tag/v1.0.0).

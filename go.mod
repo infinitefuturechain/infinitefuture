@@ -2,7 +2,7 @@ module github.com/infinitefuturechain/infinitefuture
 
 go 1.13
 
-replace github.com/cosmos/cosmos-sdk => github.com/infinitefuturechain/infinitefuture-sdk v1.0.0
+replace github.com/cosmos/cosmos-sdk => github.com/infinitefuturechain/infinitefuture-sdk v1.0.1
 
 //replace github.com/cosmos/cosmos-sdk => ../infinitefuture-sdk
 
